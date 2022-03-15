@@ -11,8 +11,7 @@ https://github.com/moom825/Discord-RAT
 https://github.com/Sp00p64/DiscordRAT
 
 
-thanks to these two for this amazing rat
-setup for this has all be created by Sp00p64 <3
+thanks to moom825 for allowing me to find this and Sp00p64 for creating this master piece  <3
 
 # All owned by Sp00p64 just looking at some funni code
 
