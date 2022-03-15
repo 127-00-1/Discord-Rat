@@ -14,7 +14,7 @@ https://github.com/Sp00p64/DiscordRAT
 thanks to these two for this amazing rat
 setup for this has all be created by Sp00p64 <3
 
-#all owned by Sp00p64 just looking at some funni code
+# All owned by Sp00p64 just looking at some funni code
 
 
 ## **Disclaimer:**
