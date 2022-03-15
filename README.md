@@ -1,8 +1,10 @@
 # Discord-Rat
+
+
 not owned by me, was just looking for the funni code, enjoy I guess <3
 
 
-Credits:
+# Credits:
 https://github.com/moom825/Discord-RAT
 https://github.com/Sp00p64/DiscordRAT
 
@@ -12,7 +14,7 @@ setup for this has all be created by Sp00p64 <3
 
 #all owned by Sp00p64 just looking at some funni code
 
-# DiscordRAT V2
+# DiscordRAT V1 very funi
 Discord Remote Administration Tool fully written in Python3.
 
 This is a RAT controlled over Discord with over 20 post exploitation modules.
